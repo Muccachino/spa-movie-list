@@ -1,0 +1,36 @@
+{
+    "movies": [
+      {
+        "id": "1",
+        "title": "Killers of the Flower Moon",
+        "director": "Martin Scorcese",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjE4ZTZlNDAtM2Q3YS00YjFhLThjN2UtODg2ZGNlN2E2MWU2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "runtime": 3.26,
+        "social": "@killersoftheflowermoon"
+      },
+      {
+        "title": "Astrerod City",
+        "director": "Wes Anderson",
+        "social": "@asteroidcity",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDJmMzY0ZGUtYWE1My00OWViLTg1NTctOWMwZWJlNDQzNGRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "runtime": "1.45",
+        "id": "2"
+      },
+      {
+        "id": "3",
+        "title": "The Whale",
+        "director": "Darren Aronofsky",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg",
+        "runtime": 1.57,
+        "social": "@thewhale"
+      },
+      {
+        "id": "4",
+        "title": "Dune: Part Two",
+        "director": "Dennis Villeneuve",
+        "img": "https://i.guim.co.uk/img/media/feb8ccbf0d9bfa8dfe6a2c5329d9351151ab043d/0_0_2764_4096/master/2764.jpg?width=445&dpr=1&s=none",
+        "social": "@dune_two",
+        "runtime": 166
+      }
+    ]
+  }
